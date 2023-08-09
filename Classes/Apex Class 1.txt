@@ -1,0 +1,6 @@
+public class Trial{
+	public static void trialMethod1(){
+		String str1 = '';
+		String str2 = '';
+	}
+}
